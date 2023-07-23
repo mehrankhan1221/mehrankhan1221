@@ -10,8 +10,9 @@ void main(){
 
 
 // using double datatype.
+  
 void(){
-double b=154.14; //double use for point value when we use point value then first we use double data type.
+double b=154.14;          //double use for point value when we use point value then first we use double data type.
 double f=4784.1;
 dynamic sum=b+f;
 
